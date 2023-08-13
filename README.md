@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, my names is Maxim</h1>
+<h1 align="center">Hi 👋, my name is Maxim</h1>
 <h3 align="center">Frontend Developer</h3>
 
 - 🌱 I’m currently learning **React, TypeScript**
