@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, my name is Maxim</h1>
 <h3 align="center">Frontend Developer</h3>
 
+<h4>I'm 15 years old, I live in Moscow, I've been doing web development for almost half a year.</h4>
+
 - 🌱 I’m currently learning **React, TypeScript**
 
 - 📫 How to reach me **mkotelnikov97@gmail.com**
